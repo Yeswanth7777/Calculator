@@ -1,0 +1,2 @@
+com/yeswanth/calculator/BuildConfig.java
+ com.yeswanth.calculator.BuildConfig
